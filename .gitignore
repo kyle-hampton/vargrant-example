@@ -1,0 +1,8 @@
+# file
+.DsFile
+
+#folder
+node_modules/
+
+
+#Ignoring all files with extension
