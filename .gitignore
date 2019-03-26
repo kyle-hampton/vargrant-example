@@ -1,8 +1,8 @@
 # file
-.DsFile
+.Dsfile
 
 #folder
 node_modules/
-
+.vagrant/
 
 #Ignoring all files with extension
