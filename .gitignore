@@ -1,9 +1,9 @@
-# file
-.Dsfile
+# files
+.ds_store
 
 
-#folder
+#folders
 node_modules/
-vagrant/
+.vagrant/
 
 #Ignoring all files with extension
