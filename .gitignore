@@ -4,6 +4,6 @@
 
 #folders
 node_modules/
-.vagrant/
+.vagrant
 
 #Ignoring all files with extension
